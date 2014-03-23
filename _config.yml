@@ -1,4 +1,5 @@
 name: Melbourne Evangelical Church
 service_time: 5:00pm
+staticURL: https://s3-ap-southeast-2.amazonaws.com/static.melbourneevangelicalchurch.com.au/
 markdown: redcarpet
 pygments: true

@@ -1,9 +1,28 @@
 ---
 layout: default
+
 ---
-<h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
+
+
+<audio src="{{site.staticURL}}{{page.date | date: "%Y"}}/{{page.date | date: "%Y-%m-%d" }}-{{page.passage | downcase | replace: ' ', '_'}}-{{page.author | downcase | replace: ' ', ''}}.mp3" controls>
+<p>Your browser does not support the audio element.</p>
+</audio>
+
+<h2>{{page.passage}}</h2>
+<div class="js-passage"></div>
+
+<script>
+	$.ajax({
+	    url: "http://api.biblia.com/v1/bible/content/LEB.txt.txt?passage={{page.passage}}&key=fd37d8f28e95d3be8cb4fbc37e15e18e",
+	    context: document.body,
+	    success: function(data){
+	      $('.js-passage').text(data);
+	    }
+	});
+</script>
+
 {{ content }}
 </div>
