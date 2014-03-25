@@ -2,12 +2,11 @@
 layout: default
 
 ---
-<p class="meta">{{ page.date | date_to_string }}</p>
+<p class="meta">{{ page.date | date_to_string }} | {{page.author}}</p>
 
 <div class="post">
 
-
-<audio src="{{site.staticURL}}{{page.date | date: "%Y"}}/{{page.date | date: "%Y-%m-%d" }}-{{page.passage | downcase | replace: ' ', '_'}}-{{page.author | downcase | replace: ' ', ''}}.mp3" controls>
+<audio src="{%talkURL%}" controls>
 <p>Your browser does not support the audio element.</p>
 </audio>
 

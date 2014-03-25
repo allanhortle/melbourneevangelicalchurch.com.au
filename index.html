@@ -4,9 +4,15 @@ title: Bible Talks
 ---
 
 <div id="home">
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+	<ul class="posts">
+		{% for post in site.posts %}
+			<li>
+				<a class="post" href="{{ post.url }}">
+					<div class="post_date post_meta">{{ post.date | date_to_string }} </div>
+					<div class="post_title">{{ post.title }}</div>
+					<div class="post_meta">{{post.author}}</div>
+				</a>
+			</li>
+		{% endfor %}
+	</ul>
 </div>
