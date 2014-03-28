@@ -6,7 +6,7 @@
 		<title>{{ page.title }} - Melbourne Evangelical</title>
 		<meta name="viewport" content="width=device-width">
 		<link rel="stylesheet" href="/res/css/main.css">
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		{% comment %}<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>{% endcomment %}
 
 	</head>
 	<body>
@@ -15,7 +15,7 @@
 
 			
 			<div class="hero">
-				<img src="/res/img/logo.png" alt="">
+				<img src="/res/img/logo.png" alt="Melbourne Evangelical Church" height="60">
 			</div>
 			<nav>			
 				<input type="checkbox" id="toggle" />
@@ -26,9 +26,10 @@
 				    	<span class="nav_ham"></span>
 				    </label>
 				    <ul class="menu">
-						<li><a href="/">Bible Talks</a></li>
-						<li><a href="/events/">Events</a></li>
+				    	<li><a href="/">Home</a></li>
 						<li><a href="/about/">About Us</a></li>
+						<li><a href="/talks">Bible Talks</a></li>
+						<li><a href="/events/">Events</a></li>
 						{% comment %}<li><a href="/beliefs/">Our Beliefs</a></li>{% endcomment %}
 						<li><a href="/contact/">Contact Us</a></li>
 				    </ul>

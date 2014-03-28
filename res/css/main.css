@@ -19,8 +19,12 @@ h1,h2,h3,h4,h5,h6{
 }
 
 a {
-		color: inherit;
-		text-decoration:none
+	color: inherit;
+	text-decoration:none
+}
+
+.content a{
+	color:#5498CE;
 }
 
 hr{
@@ -207,6 +211,19 @@ audio{
 	margin-bottom:0 !important;
 }
 
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
 /*
 |--------------------------------------------------------------------------
 | Media Quries
@@ -218,7 +235,8 @@ audio{
 
 @media all and (min-width: 50em) {
 	.content{
-
+		margin-bottom:64px;
 	}
 }
+
 

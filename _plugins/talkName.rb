@@ -13,8 +13,8 @@ module Jekyll
       staticURL = context.registers[:site].config['staticURL']
       year = page['date'].strftime('%Y')
       date = page['date'].strftime('%Y-%m-%d')
-      passage = page['passage'].downcase.sub(' ','_')
-      author = page['author'].downcase.sub(' ','_')
+      passage = page['passage'].downcase.gsub(' ','_')
+      author = page['author'].downcase.gsub(' ','_')
 
       return "#{staticURL}#{year}/#{date}-#{passage}-#{author}.mp3"
     end

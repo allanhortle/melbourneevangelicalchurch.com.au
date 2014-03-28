@@ -19,7 +19,7 @@ __John Hudson__ is our lead pastor. He’s married to Bek and has three kids (Ha
 ---
 
 <img class="l-left avatar" src="/res/img/people/jean.jpg" height="60">
-__Jean Williams__ is our women’s ministry coordinator. She’s married to Steve and has four kids (Elizabeth, Ben, Thomas and Andrew). Jean grew up in Melbourne and studied at Melbourne University. Jean loves Jesus, reading, blogging and ministry to women and university students.
+__Jean Williams__ is our women’s ministry coordinator. She’s married to Steve and has four kids (Elizabeth, Ben, Thomas and Andrew). Jean grew up in Melbourne and loves Jesus, reading, blogging and ministry to women and university students.
 
 ---
 
@@ -29,7 +29,7 @@ __Darren Vanderkruk__ is our kids church coordinator. He's married to Kelly and 
 ---
 
 <img class="l-left avatar" src="/res/img/people/casey.jpg" height="60">
-__Casey Ku__ is our secretary. She grew up in Melbourne, and over the last four years has been working at a dispute resolution service. Casey loves reading, catching up with friends over a good cup of coffee and delicious food, and enjoys watching documentaries and movies.
+__Casey Ku__ is our secretary. She grew up in Melbourne, and over the last four years has been working at a dispute resolution service. Casey loves Jesus and enjoys reading, catching up with friends over a good cup of coffee and watching documentaries.
 
 ---
 
@@ -39,11 +39,11 @@ __Edward Tan__ is our treasurer. He grew up in Singapore. Edward is studying arc
 ---
 
 <img class="l-left avatar" src="/res/img/people/allan.jpg" height="60">
-__Allan Hortle__ is a member of the board. He's married to Fiona. Allan grew up in Melbourne and works in the inner city suburbs. <br>
+__Allan Hortle__ is a member of the board. He's married to Fiona and works as a UI Designer in Richmond. Allan grew up in Tasmania and loves Jesus, the internet and computer games with names ending in craft. <br>
 
 ---
 
 
 
 <img class="l-left avatar" src="/res/img/people/ross.jpg" height="60">
-__Ross Taylor__ is a member of the board. Ross grew up in Melbourne and works in the inner city suburbs.
+__Ross Taylor__ is a member of the board. Ross grew up in Melbourne and works in learning and technology. He likes coffee and street photography. 

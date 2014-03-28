@@ -11,17 +11,34 @@ layout: default
 </audio>
 
 <h2>{{page.passage}}</h2>
+{% comment %}
 <div class="js-passage"></div>
-
 <script>
 	$.ajax({
-	    url: "http://api.biblia.com/v1/bible/content/LEB.txt.txt?passage={{page.passage}}&key=fd37d8f28e95d3be8cb4fbc37e15e18e",
-	    context: document.body,
-	    success: function(data){
-	      $('.js-passage').text(data);
-	    }
+	    url: "https://bibles.org/v2/chapters/eng-NIV:1Cor.2/verses.js",
+	    type: 'GET',
+	    username:"{{site.bibleAPIKey}}",
+	    contentType: "application/json",
+	    dataType: "json",
+	    callback: 'callback',
+	    // crossDomain: true,
+	    // jsonp: 'jsonp', 
+	    // success:function(data, textStatus, jqXHR) {
+	    // 	console.log("success");
+	    // 	console.log(data, textStatus, jqXHR);
+	    // },
+	    // error: function(jqXHR, textStatus, errorThrown) {
+	    // 	console.log("failure");
+	    // 	console.log(jqXHR, textStatus, errorThrown);
+	    // }
 	});
-</script>
+	function callback(a){
+		console.log(a)
+	}
+	// curl -L -u #{API Token}:X -k https://bibles.org/v2/verses/eng-GNTD:Acts.8.34.xml
+</script> 
+{% endcomment %}
 
 {{ content }}
 </div>
+
