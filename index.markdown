@@ -12,6 +12,6 @@ Thanks for visiting our website. Please click on the links above to check us out
 Whoever you are and whatever your background, we'd love to see you this Sunday,  
 5pm in the Multicultural Hub (purple room), 506 Elizabeth St Melbourne.
 
-For an upcoming sermon series [Tell us your biggest objection to Christianity][survey].
+For an upcoming sermon series: [Tell us your biggest objection to Christianity][survey].
 
 [survey]: https://www.surveymonkey.com/s/W3QZ8F9
