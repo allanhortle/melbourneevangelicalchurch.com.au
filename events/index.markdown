@@ -9,7 +9,7 @@ title:  What's On
 ## The Problem of Evil
 _Mon July 7 12:30pm 26 King St & Sunday July 13, 3pm_
 
-This objection/issue with Christianity didn’t make it into Melbourne’s top 10, but John will be dealing with it directly at the next City Bible Forum Lyceum (Monday July 7), and in our men’s training next Sunday, 3pm at the Hub.
+This objection/issue with Christianity didn't make it into Melbourne's top 10, but John will be dealing with it directly at the next City Bible Forum Lyceum (Monday July 7), and in our men's training next Sunday, 3pm at the Hub.
 
 --- 
 
@@ -17,7 +17,7 @@ This objection/issue with Christianity didn’t make it into Melbourne’s top 1
 ## Chit Chat @ the Chocolate Lounge
 _Sunday July 13, 3pm at Theobroma_
 
-Next Sunday our women’s group is having a social at the Theobroma Chocolate Lounge in Melbourne Central. Come anytime from 3pm.
+Next Sunday our women's group is having a social at the Theobroma Chocolate Lounge in Melbourne Central. Come anytime from 3pm.
 
 --- 
 
@@ -41,7 +41,7 @@ Come hear challenging talks on the gospel and evangelism (by Philip Jensen), and
 ## Do Science and God mix?
 _Friday August 8, 7pm-9pm. 333 Swanson St_
 
-Don’t miss Professor John Lennox as he distils the turbulent debate about science and faith in God. Go to [citybibleforum.org/cosmic-chemistry](citybibleforum.org/cosmic-chemistry) for more.
+Don't miss Professor John Lennox as he distills the turbulent debate about science and faith in God. Go to [citybibleforum.org/cosmic-chemistry](citybibleforum.org/cosmic-chemistry) for more.
 
 --- 
 
@@ -58,14 +58,14 @@ give purpose and patience in life. Save the date now!
 ## Something Bigger
 _Thursday Aug 28, 7pm. 26 Southgate Ave Southbank_
 
-Matt Chandler will be coming to Melbourne in August, inviting everyone to consider “Something Bigger”. Tickets available at [somethingbigger.co](somethingbigger.co)
+Matt Chandler will be coming to Melbourne in August, inviting everyone to consider "Something Bigger". Tickets available at [somethingbigger.co](somethingbigger.co)
 
 --- 
 
 ## T2 Women’s Conference
 _Saturday August 30. Holy Trinity Doncaster_
 
-Our women’s group (Sophia) and the women of Grace Christian Community are organising our very first women’s conference! A chance to hear great talks from women to women, and enjoy great fellowship. Talk to Bek for more info.
+Our women's group (Sophia) and the women of Grace Christian Community are organising our very first women's conference! A chance to hear great talks from women to women, and enjoy great fellowship. Talk to Bek for more info.
 
 --- 
 
