@@ -6,22 +6,6 @@ title:  What's On
 
 ---
 
-## The Problem of Evil
-_Mon July 7 12:30pm 26 King St & Sunday July 13, 3pm_
-
-This objection/issue with Christianity didn't make it into Melbourne's top 10, but John will be dealing with it directly at the next City Bible Forum Lyceum (Monday July 7), and in our men's training next Sunday, 3pm at the Hub.
-
---- 
-
-
-## Chit Chat @ the Chocolate Lounge
-_Sunday July 13, 3pm at Theobroma_
-
-Next Sunday our women's group is having a social at the Theobroma Chocolate Lounge in Melbourne Central. Come anytime from 3pm.
-
---- 
-
-
 ## MOLDI Dinner
 _Wednesday July 23, 7pm. 121 Lygon Street Carlton_
 
@@ -45,6 +29,13 @@ Don't miss Professor John Lennox as he distills the turbulent debate about scien
 
 --- 
 
+
+## Frustration @ Work 
+_Thursday August 14, 7:15-8:30am. 215 Queen St_ 
+
+Join us for breakfast as we consider how to handle our frustrations with work in a way that honours God. Details and registration at [lifeatwork.org.au/events](lifeatwork.org.au/events)
+
+---
 
 ## Melbourne EV Church Camp!
 _August 15 - 17. Burnside Camp Anglesea_
