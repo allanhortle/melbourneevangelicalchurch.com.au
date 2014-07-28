@@ -3,15 +3,7 @@ layout: default
 title:  What's On
 ---
 
-
 ---
-
-## MOLDI Dinner
-_Wednesday July 23, 7pm. 121 Lygon Street Carlton_
-
-Do you know someone who would be willing to come to a MOLDI dinner (a Meaning Of Life Discussed Intelligently dinner)? If so, we’re hosting one at Chiangmai Thai Cusisine on Wed July 23. Talk to John for more info.
-
---- 
 
 
 ## MTS Challenge Conference
