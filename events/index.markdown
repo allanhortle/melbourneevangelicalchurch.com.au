@@ -3,13 +3,6 @@ layout: default
 title:  What's On
 ---
 
----
-
-
-## MTS Challenge Conference
-_Saturday August 2. Holy Trinity Doncaster_
-
-Come hear challenging talks on the gospel and evangelism (by Philip Jensen), and consider some future ministry options. Speak to John, or register at [www.mts.com.au/vic-challenge-conference](www.mts.com.au/vic-challenge-conference) before July 27.
 
 --- 
 
