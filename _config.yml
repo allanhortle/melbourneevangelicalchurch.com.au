@@ -1,8 +1,8 @@
 name: Melbourne Evangelical Church
+description: Challenging bible teaching in the heart of Melbourne.
+url: http://melbourneevangelicalchurch.com.au
 service_time: 5:00pm
 staticURL: https://s3-ap-southeast-2.amazonaws.com/static.melbourneevangelicalchurch.com.au/
 bibleAPIKey: gn9tZo6THRRJ9fElH32uaPI1fwOgXLuSCAS8TCbf
 markdown: redcarpet
 highlighter: true
-
-

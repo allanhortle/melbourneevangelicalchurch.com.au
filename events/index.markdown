@@ -7,14 +7,6 @@ title:  What's On
 --- 
 
 
-## Do Science and God mix?
-_Friday August 8, 7pm-9pm. 333 Swanson St_
-
-Don't miss Professor John Lennox as he distills the turbulent debate about science and faith in God. Go to [citybibleforum.org/cosmic-chemistry](citybibleforum.org/cosmic-chemistry) for more.
-
---- 
-
-
 ## Frustration @ Work 
 _Thursday August 14, 7:15-8:30am. 215 Queen St_ 
 
