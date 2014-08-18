@@ -1,7 +1,5 @@
-{% comment %}
-Super long liquid tag becuase github pages runs jekyll in --safe mode. (no plugins)
-comments for clarity becuase it's a jumble below.
-output:
-staticURL/2014/2014-01-01-passage_author.mp3
+{{site.staticURL}}{{ page.date | date: '%Y' }}/{{page.date | date: '%Y-%m-%d'}}-{{page.passage | replace: ' ', '_' | downcase }}-{{ page.author | replace: ' ','_' | downcase }}.mp3{% comment %} 
+Super long liquid tag becuase github pages runs jekyll in --safe mode. 
+(no plugins) comments for clarity becuase it's a jumble below. 
+output: staticURL/2014/2014-01-01-passage_author.mp3
 {% endcomment %}
-{{site.staticURL}}{{ page.date | date: '%Y' }}/{{page.date | date: '%Y-%m-%d'}}-{{page.passage | replace: ' ', '_' | downcase }}-{{ page.author | replace: ' ','_' | downcase }}.mp3

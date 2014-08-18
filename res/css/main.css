@@ -26,9 +26,6 @@ a {
 	text-decoration:none
 }
 
-.content a{
-	color:#5498CE;
-}
 
 hr{
 	border:1px solid #e6e6e6;
@@ -189,8 +186,9 @@ audio{
 	color:#333;
 }
 
-.post_meta{
+.meta{
 	color:#888;
+	text-transform: capitalize;
 }
 
 .post_date{
@@ -231,7 +229,7 @@ audio{
 
 /*
 |--------------------------------------------------------------------------
-| Media Quries
+| Media Queries
 |--------------------------------------------------------------------------
 |
 | Description
@@ -242,6 +240,18 @@ audio{
 	.content{
 		margin-bottom:64px;
 	}
+}
+
+
+.usercontent ul {
+	padding-left: 32px;
+	list-style-type: disc;
+}
+
+
+.usercontent a{
+	color:#5498CE;
+	text-decoration: underline;
 }
 
 
