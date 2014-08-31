@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to Melbourne <br>Evangelical Church!
+title: Welcome to Melbourne Evangelical Church!
 ---
 
 <div class="videoWrapper">
