@@ -23,7 +23,7 @@ Go to [http://citybibleforum.org/city/melbourne/event/myth-or-truth](http://city
 ## Men's / Women's Events
 _Sunday Sep 14_
 
-In 2 weeks time, Andrew Larid (from the the City Bible Forum) will be coming to speak at our men's training on integrating faith and work. And our women's group will be having a crafternoon tea. Both events will be before church. 
+Andrew Larid (from the the City Bible Forum) will be coming to speak at our men's training on integrating faith and work. And our women's group will be having a crafternoon tea. Both events will be before church. 
 
 --- 
 
@@ -33,6 +33,13 @@ _Friday Sep 19 7:00pm. Latham Theater (Melbourne Uni)_
 
 To continue a discussion from our series on people’s objections to Christianity, John will be debating James Fodor (president of the Melbourne Uni secular society) on the famous Dostoevsky quote "if God does not exist, everything is permitted".
 
+
+---
+
+## Grand Final BBQ
+_Saturday Sep 27, 12:30pm. At the Hudsons: 5 Pengelly Court Sunshine_
+
+Come and enjoy a BBQ lunch and watch the AFL grand final live with us.  An open invitation to anyone interested in coming along.
 
 ---
 
