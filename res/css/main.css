@@ -23,7 +23,8 @@ h1,h2,h3,h4,h5,h6{
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration:none;
+	
 }
 
 
@@ -252,6 +253,7 @@ audio{
 .usercontent a{
 	color:#5498CE;
 	text-decoration: underline;
+	white-space: pre-wrap;
 }
 
 

@@ -7,27 +7,6 @@ title:  What's On
 --- 
 
 
-## Myth or Truth? 
-_Fridays (Aug 8 - Sep 5), 12:30pm - 1:15pm. 673 Bourke St_
-
-Be part of the audience of Logos Live, a radio show recorded in the CBD.
-
-* Sep 5: Saviour – Is Jesus relevant today? (Luke Nelson, City on a Hill West)
-* Sep 12: Slaughter – Is the OT God too violent? (Paul Barker, OT scholar)
-
-Go to [http://citybibleforum.org/city/melbourne/event/myth-or-truth](http://citybibleforum.org/city/melbourne/event/myth-or-truth) for more.
-
---- 
-
-
-## Men's / Women's Events
-_Sunday Sep 14_
-
-Andrew Larid (from the the City Bible Forum) will be coming to speak at our men's training on integrating faith and work. And our women's group will be having a crafternoon tea. Both events will be before church. 
-
---- 
-
-
 ## An Ethical Debate
 _Friday Sep 19 7:00pm. Latham Theater (Melbourne Uni)_
 
@@ -48,6 +27,19 @@ _Sep 27-28, Lady Northcote Bacchus March_
 
 Come to a weekend camp for young adults with edifying talks on Song of Songs (by Nello Barbieri), and get equipped with strand groups on reading the Bible, biblical theology, systematic theology, ethics, or gospel centered relationships. Register at [www.connect-ministry.org/events/ctc/registration](www.connect-ministry.org/events/ctc/registration) 
 
+---
+
+## Preaching Group 
+_Sunday Sep 28, 3:30pm_
+
+For those interested in preaching, our preaching group will be meeting in two weeks time to hear and constructively critique a sermon before church in the hub (purple room).
+
+---
+
+## Life at Work Conference 
+_Oct 16-17, 6pm-9pm, 474 Flinders St_
+
+Ambition is the air we breathe – getting ahead, making a name for ourselves, climbing the corporate ladder. But is it all wrong? How should we think about ambition in the workplace? Info and register at [lifeatwork.org.au/conference](lifeatwork.org.au/conference)
 
 
 
