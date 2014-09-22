@@ -4,15 +4,6 @@ title:  What's On
 ---
 
 
---- 
-
-
-## An Ethical Debate
-_Friday Sep 19 7:00pm. Latham Theater (Melbourne Uni)_
-
-To continue a discussion from our series on people’s objections to Christianity, John will be debating James Fodor (president of the Melbourne Uni secular society) on the famous Dostoevsky quote "if God does not exist, everything is permitted".
-
-
 ---
 
 ## Grand Final BBQ
