@@ -24,13 +24,14 @@ Ambition is the air we breathe – getting ahead, making a name for ourselves, c
 
 _Oct 22, 7pm. Thai City, 124 Lygon St._
 
-Know anyone interested in discussing the meaning of life? Don’t miss this opportunity to engage with different worldviews in a friendly, relaxed environment. Please rsvp to [john.david.hudson@gmail.com](email) by Sunday October 19. 
+Know anyone interested in discussing the meaning of life? Don’t miss this opportunity to engage with different worldviews in a friendly, relaxed environment.  
+Please rsvp to [john.david.hudson@gmail.com](email) by Sunday October 19. 
 
 ---
 
-## An Interfaith Discussion 
+## The Concept of God 
 _Nov 2, 7pm. Multicultural Hub_
-Following the debate at Melbourne University, John has been asked to participate in a discussion with the Muslim apologist Shahir Naga. This will take place after church on Nov 2 in the red/orange rooms. 
+What does Islam and Christianity have in common? Where do they differ? What is God really like? Come and join a friendly conversation between Muslims and Christians about these important questions, after church on November 2 in the red/orange rooms.
 
 
 [email]: mailto:john.david.hudson@gmail.com
