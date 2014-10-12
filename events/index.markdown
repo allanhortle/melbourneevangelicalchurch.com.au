@@ -4,12 +4,6 @@ title:  What's On
 ---
 
 
----
-
-## Men's / Women's Training 
-_Sunday Oct 12, 3:00pm. Multicultural Hub_
-
-John will be leading the men's training on conversational evangelism, and Bek will be leading the women's training on serving.
 
 ---
 
@@ -24,14 +18,23 @@ Ambition is the air we breathe – getting ahead, making a name for ourselves, c
 
 _Oct 22, 7pm. Thai City, 124 Lygon St._
 
-Know anyone interested in discussing the meaning of life? Don’t miss this opportunity to engage with different worldviews in a friendly, relaxed environment.  
-Please rsvp to [john.david.hudson@gmail.com](email) by Sunday October 19. 
+Know anyone interested in discussing the meaning of life? Don’t miss this opportunity to engage with different worldviews in a friendly, relaxed environment. Please RSVP to [John] by Sunday October 19.
 
 ---
 
 ## The Concept of God 
-_Nov 2, 7pm. Multicultural Hub_
+_Nov 2, 7pm. Multicultural Hub_  
+
 What does Islam and Christianity have in common? Where do they differ? What is God really like? Come and join a friendly conversation between Muslims and Christians about these important questions, after church on November 2 in the red/orange rooms.
 
+---
 
-[email]: mailto:john.david.hudson@gmail.com
+## Melbourne Lyceum: Old Testament Violence 
+_Nov 3, 12:30pm, 26 King St, Level 2_
+
+If you’re troubled by the amount of violence in the Old Testament, or wondering how to answer questions about OT violence, come and join the discussion on this very relevant issue.
+
+---
+
+
+[John]: mailto:john.david.hudson@gmail.com
