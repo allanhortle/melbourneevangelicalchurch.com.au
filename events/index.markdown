@@ -4,14 +4,6 @@ title:  What's On
 ---
 
 
-
----
-
-## Life at Work Conference 
-_Oct 16-17, 6pm-9pm. 474 Flinders St_
-
-Ambition is the air we breathe – getting ahead, making a name for ourselves, climbing the corporate ladder. But is it all wrong? How should we think about ambition in the workplace? Info and register at [lifeatwork.org.au/conference](lifeatwork.org.au/conference)
-
 ---
 
 ## MOLDI Dinner - Meaning Of Life Discussed Intelligently
