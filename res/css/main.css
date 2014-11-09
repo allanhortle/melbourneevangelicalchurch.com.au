@@ -32,10 +32,13 @@ hr{
 	border:1px solid #e6e6e6;
 }
 
-p{
+p, .row{
 	margin:1em 0;
 }
 
+.row2 {
+	padding: 1em;
+}
 
 /*  L A Y O U T  */
 
