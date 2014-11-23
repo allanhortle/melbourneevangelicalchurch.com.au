@@ -7,7 +7,6 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 
 
 <div class="row2"></div>
-<div class="row2"></div>
 
 
 ---
