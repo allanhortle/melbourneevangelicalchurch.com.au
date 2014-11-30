@@ -11,10 +11,10 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 
 ---
 
-##The Myth and Reality of Christmas
-_12:30pm, Monday Dec 1. 26 King St Level 2_
+## Final Men's and Women's Events for 2014!
+_7:30pm, Friday Dec 12_
 
-What are the myths and what are the facts of the Christmas story. Join the discussion on the historicity of the event that changed the world.
+From 7:30pm on Friday December 12, we’ll be having our final men’s and women’s events for 2014! The men will be having a Pizza and Video Games night at the Hudsons, speak to John for more info. And the women will be having a Ginger Bread House Making night at the Hortles, speak to Fiona for more info.
 
 ---
 
@@ -25,8 +25,16 @@ On Sunday Dec 14, we’ll be having a special Christmas Carols gathering. A grea
 
 ---
 
+## Christmas Carols Outreach 
+_5pm Thursday December 18. Southbank_
+
+On Sunday Dec 14, we’ll be having a special Christmas Carols gathering at church. And on Thursday Dec 18, a number of us we’ll be gathering at Southbank to sing some Christmas Carols to the public, and invite them to church at Christmas. Speak to Tony or Shona for more info.
+
+---
+
 ## Christmas Day Gathering
 _9am, December 25. New Location: 277 Little Lonsdale Street_
+
 On December 25, we’ll be having a Christmas day gathering in a new location - Cross Cultures Studio 277. We’ll also be in this location for our last gathering for the year on Sunday December 28.
 
 
