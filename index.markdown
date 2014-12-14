@@ -11,13 +11,6 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 
 ---
 
-## Christmas Carols
-_5pm, Sunday December 14_
-
-On Sunday Dec 14, we’ll be having a special Christmas Carols gathering. A great opportunity invite friends and family to celebrate Christmas with us, and sing some well known carols.
-
----
-
 ## Christmas Carols Outreach 
 _5pm Thursday December 18. Southbank_
 
