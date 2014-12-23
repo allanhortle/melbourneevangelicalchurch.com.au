@@ -3,7 +3,7 @@ layout: usercontent
 title:  "About Us"
 ---
 
-<img class="l-right" src="/res/img/about.jpg" height="240">
+<img class="l-right" src="/res/img/about.jpg" alt="We're a bunch of people who gather together in Melbourne as an Evangelical Church" height="240">
 We're a bunch of people who gather together in Melbourne as an Evangelical Church.
 
 As Evangelicals, we emphasise the teaching of the Bible, the cross of Christ, the need for lives to be changed, and expressing the gospel in our lives.

@@ -10,7 +10,7 @@ layout:
         <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>      
         <link>{{ site.url }}</link>
         <itunes:subtitle>{{ site.description }}</itunes:subtitle>
-        <itunes:keywords>jesus,melbourne,christianity,evangelical,bible,teaching</itunes:keywords>
+        <itunes:keywords>{{ site.keywords }}</itunes:keywords>
         <itunes:summary>{{ site.description }}</itunes:summary>
         <itunes:owner>
             <itunes:name>John Hudson</itunes:name>

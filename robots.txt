@@ -1,0 +1,3 @@
+# Sample Robots File
+User-agent: *
+Disallow:
