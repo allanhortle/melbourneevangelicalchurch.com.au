@@ -7,3 +7,5 @@ staticURL: https://s3-ap-southeast-2.amazonaws.com/static.melbourneevangelicalch
 bibleAPIKey: gn9tZo6THRRJ9fElH32uaPI1fwOgXLuSCAS8TCbf
 markdown: redcarpet
 highlighter: true
+gems:
+  - jekyll-sitemap
