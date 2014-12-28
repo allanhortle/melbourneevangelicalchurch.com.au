@@ -4,15 +4,22 @@ title: Bible Talks
 ---
 
 <div id="home">
-	<ul class="posts">
-		{% for post in site.posts %}
-			<li>
-				<a class="post" href="{{ post.url }}">
-					<div class="post_date post_meta">{{ post.date | date_to_string }} </div>
-					<div class="post_title">{{ post.title }}</div>
-					<div class="post_meta">{{post.author}}</div>
-				</a>
-			</li>
-		{% endfor %}
-	</ul>
+    {% for post in site.posts %}
+        {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+        {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+
+        {% if month != nmonth %}
+            {% if forloop.index != 1 %}</ul>{% endif %}
+            <h3>{{ post.date | date: '%B' }}</h3><ul class="posts">
+        {% endif %}
+
+        <li>
+            <a class="post" href="{{ post.url }}">
+                <time class="post_date post_meta">{{ post.date | date_to_string }} </time>
+                <div class="post_title">{{ post.title }}</div>
+                <div class="post_meta">{{post.author}}</div>
+            </a>
+        </li>
+
+    {% endfor %}
 </div>
