@@ -10,13 +10,6 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 
 ---
 
-## Christmas Day Gathering
-_9am, December 25. New Location: 277 Little Lonsdale Street_
-
-On December 25, we’ll be having a Christmas day gathering in a new location - Cross Cultures Studio 277. We’ll also be in this location for our last gathering for the year on Sunday December 28.
-
----
-
 ## City Bible Forum Lyceum Summer School
 _12:30pm-1:15pm, Jan 19-23. Level 2, 26 King St_
 
