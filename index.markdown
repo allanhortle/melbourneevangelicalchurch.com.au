@@ -3,7 +3,7 @@ layout: usercontent
 title:  Welcome
 ---
 
-Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (purple room), __506 Elizabeth St Melbourne.__
+Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (blue room), __506 Elizabeth St Melbourne.__
 
 
 <div class="row2"></div>
