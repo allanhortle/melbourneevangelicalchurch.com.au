@@ -10,17 +10,12 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 
 ---
 
-  
-## Dinner at Church
-Next Sunday we’ll be having dinner together after church. If you’re able to, please bring a plate to share.
+## Growth Groups start this week
 
-<div class="row2"></div>
-
----
-
-
-## Growth Groups
-In February, our Growth Groups will be starting again for the year. Please contact John if you’d like to be involved in one.
+Our mid-week growth groups start this week!
+Wednesday nights at John & Bek’s place (west),
+or Thursday nights at Juen Nin’s place (city).
+Speak to John if you’re interested in joining a growth group.
 
 <div class="row2"></div>
 
@@ -28,7 +23,9 @@ In February, our Growth Groups will be starting again for the year. Please conta
 
 
 ## English Conversation Club
-Also in February, we’ll be launching a free English conversation club! Speak to John if you’re interested in participating, or helping out as a teacher.
+__5:30pm-7pm Thursday nights in the Hub__
+
+Also this week, we’ll be launching a free English conversation club! Please speak to John if you’re interested in participating, or helping as a teacher.
 
 [John]: mailto:john.david.hudson@gmail.com
 
