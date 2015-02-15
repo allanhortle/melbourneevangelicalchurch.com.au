@@ -10,18 +10,23 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 
 ---
 
-## For the men: Evangelistic Preaching Training Day
-_This Saturday 9am-4pm, All Saints Anglican Church: 14 Church St Greensborough_
-
-Come and be trained by some of the best evangelistic preachers in Melbourne.
-$15 for morning tea and lunch. RSVP to [John Sugars](jwsugars@gmail.com).
+## Growth Groups – Bold I Approach
+Our mid-week growth groups have started for 2015, looking at the subject of prayer with a set of studies: Bold I Approach. Wednesday nights at John & Bek’s place (west), or Thursday nights at Juen Nin’s place (city). Contact John or fill out a response slip if you’re interested in joining one.
 
 ---
 
-## For women: Let’s Talk About the Girls Breakfast Event
-_This Saturday 9am-11am, Beau Monde International: 934 Doncaster Rd, Doncaster East_
+## English Conversation Club
+_5:30pm-7pm Thursday nights in the Hub_
 
-Join us for a special breakfast event and hear girls’ and women’s moving and inspiring stories from around the world, including right here in our own neighbourhoods. $22.50 for breakfast. Register [here](eventbrite.com.au/e/lets-talk-about-the-girls-womens-breakfast-event-tickets-15194741882).
+Also this month, we’ve launched a free English conversation club! Please contact John if you’re interested in being a part of it, or helping out as a teacher.
+
+---
+
+## Toastmasters Apologetics
+_Tues Nights, 26 King St_
+
+
+This year the City Bible Forum and Melbourne Evangelical Church are running a Toastmasters Apologetics training group on Tuesday nights once a month, at the City Bible Forum office. Contact [John] to get involved.
 
 
 [John]: mailto:john.david.hudson@gmail.com
