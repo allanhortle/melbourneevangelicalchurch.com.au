@@ -1,8 +1,8 @@
 ---
 layout: post
-passage: Mark 7:31-8:21	
-title: Understanding The Signs Of The Kingdom
-author: Oli Blythe
-date: 2015-01-04
+passage: Mark 11
+title: The Coming Of The Kingdom
+author: John Hudson
+date: 2015-02-22
 categories: Mark
----	
+--- 
