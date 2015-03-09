@@ -1,0 +1,22 @@
+---
+layout: default
+title: Blog
+---
+
+<div id="home">
+    <ul class="posts">
+        {% for post in site.posts %}
+            {% if post.layout == 'article' %}
+                <li>
+                    <a class="post" href="{{ post.url }}">
+                    <span class="l-right t-right post_meta">
+                        <span class="post_author">{{post.author}},</span>
+                        <time class="post_date">{{ post.date | date_to_string }}</time>
+                    </span>
+                    <div class="post_title">{{ post.title }}</div>
+                </a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>

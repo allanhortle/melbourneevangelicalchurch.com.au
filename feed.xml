@@ -1,5 +1,5 @@
 ---
-layout: 
+layout:
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
@@ -7,7 +7,7 @@ layout:
         <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
         <title>{{ site.name | xml_escape }}</title>
         <language>en</language>
-        <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>      
+        <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
         <link>{{ site.url }}</link>
         <itunes:subtitle>{{ site.description }}</itunes:subtitle>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
@@ -25,10 +25,19 @@ layout:
         {% for page in site.posts limit:10 %}
             <item>
                 <title>{{ page.title | xml_escape }}</title>
-                <description>{{ page.passage | xml_escape }}</description>
+                <description><![CDATA[
+                    {{ page.content }}
+                        {% if page.layout == 'post' %}
+                        <audio src="{% include talkURL.html %}" controls>
+                           <p>Your browser does not support the audio element.</p>
+                        </audio>
+                        {% endif %}
+                    ]]></description>
                 <pubDate>{{ page.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
                 <link>{{ site.url }}{{ page.url }}</link>
-                <enclosure url="{% include talkURL.html %}" type="audio/mpeg" />
+                {% if page.layout == 'post' %}
+                    <enclosure url="{% include talkURL.html %}" type="audio/mpeg" />
+                {% endif %}
                 <guid isPermaLink="true">{{ site.url }}{{ page.url }}</guid>
             </item>
         {% endfor %}

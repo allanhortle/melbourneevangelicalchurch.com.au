@@ -17,12 +17,11 @@
 		<link href="/res/img/apple-touch-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
 	</head>
 	<body>
-
-		<div class="header">			
+		<div class="header">
 			<div class="hero">
 				<img src="/res/img/logo.png" alt="Melbourne Evangelical Church" height="60">
 			</div>
-			<nav>			
+			<nav>
 				<input type="checkbox" id="toggle" />
 				<div>
 				    <label class="nav_toggle" for="toggle" onclick>
@@ -33,14 +32,15 @@
 				    <ul class="menu">
 				    	<li><a href="/">Events</a></li>
 						<li><a href="/about/">About Us</a></li>
-						<li><a href="/talks">Bible Talks</a></li>
+                        <li><a href="/talks">Bible Talks</a></li>
+						<li><a href="/blog">Blog</a></li>
 						{% comment %}<li><a href="/beliefs/">Our Beliefs</a></li>{% endcomment %}
 						<li><a href="/contact/">Contact Us</a></li>
 				    </ul>
 				</div>
-			</nav>	
+			</nav>
 		</div>
-		
+
 		<div class="content">
 			<h1>{{page.title}}</h1>
 		  	{{ content }}
