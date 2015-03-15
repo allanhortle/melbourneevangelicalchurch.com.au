@@ -10,8 +10,8 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 
 ***
 
-## Growth Groups – Bold I Approach
-Our mid-week growth groups have started for 2015, looking at the subject of prayer with a set of studies: Bold I Approach. Wednesday nights at John & Bek’s place (west), or Thursday nights at Juen Nin’s place (city). Contact [John] if you’re interested in joining one.
+## Growth Groups - Towards Belief
+What are the objections and issues that Christianity faces today? Learn how to wrestle with the big questions that hold people back from faith, and see how we can move towards belief. Hear John Lennox, John Dickson, and many more, answering the toughest questions Australians have about belief in Christianity. Contact [John] to join a growth group.
 
 ***
 
@@ -29,13 +29,6 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 
 ***
 
-## 5 Things I Wish I’d Known In My First Year At Work
-_6:30-8:30pm, March 12, Royal Melbourne Hotel, $25 (includes dinner & drinks)_
-
-Barrister Ray Ternes & Engineer Karina Swan know the difficulties of starting out in the workplace as Christians. Discover the five things they wish they’d known when they began.
-Register at [lifeatwork.org.au/events](lifeatwork.org.au/events)
-
-***
 
 ## Public Forum – Does it Satisfy?
 _Friday March 20, 12:30pm. 282 Exhibition St_
