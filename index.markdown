@@ -29,29 +29,29 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 
 ***
 
+## Easter Services
+_10am Good Friday, 5pm Easter Sunday_
 
-## Public Forum – Does it Satisfy?
-_Friday March 20, 12:30pm. 282 Exhibition St_
-
-Which experience of life is most satisfying? Atheism or Christianity? Hear the stories of two men who have experienced both. Matt Dillahunty once studied at theological seminary to bolster his faith, but he lost it, became an atheist and is now the host of the TV show ‘The Atheist Experience.’ Shane Rogerson was once a Marxist atheist, but was converted to Christianity and is now the pastor of an evangelical church in Prahran in Melbourne. Hear their stories. Ask your questions. Be challenged to work out which experience of life is most satisfying.
-
-***
-
-## Women's and Men's Night
-_6pm, Saturday March 21_
-
-__Women: Movies at Vivienne’s__  
-Bring $5 for Pizza. Speak to Vivienne for more info.
-
-__Men: Board games at Allan's__  
-Bring your favourite game, and all the courage you have! Speak to Allan for more info.
+Come and celebrate Easter and all that it means for us and for the world. 10am on Good Friday (April 3) at 318 Russell St, and 5pm Easter Sunday (April 5) in the hub.
 
 ***
 
-## You're invited to a MOLDI Dinner
-_Tuesday March 24 7:30pm, Thai City – 124 Lygon Street Carlton_
+## Women’s Training - Dealing with Abortion
+_3pm Sunday April 12, in the multicultural hub_
 
-Meaning Of Life Discussed Intelligently. Please join us as we discuss the big questions of life in a friendly relaxed environment.
+Juen Nin, who trained in medicine, will be leading a discussion of how we can respond to abortion, and those who advocate for it.
+
+## Men’s Training - Dealing with Homosexuality
+_3pm Sunday April 12, in the multicultural hub_
+
+John will be leading a discussion on homosexuality, with practical advice on how to respond to those who advocate for it. 
+
+***
+
+## Word In Song
+_Sat May 2. Bundoora Pres - 3/19 Enterprise Dr Bundoora_
+
+Come and explore what God’s Word has to say about truth and creativity, and touching our souls through music! Specialised music training workshops available. Register at [wordinsong.com.au](http://wordinsong.com.au)
 
 ***
 
