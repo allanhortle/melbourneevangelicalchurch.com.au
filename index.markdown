@@ -48,6 +48,13 @@ John will be leading a discussion on homosexuality, with practical advice on how
 
 ***
 
+## Balancing Work And Church Breakfast
+_Thursday April 23, 7:15am-8:30am, 215 Queen St_
+
+How do I have time for "ministry" when my work is so demanding? Join us as we think about how we can balance work and church. Register at [lifeatwork.org.au/events](http://lifeatwork.org.au/events)
+
+***
+
 ## Word In Song
 _Sat May 2. Bundoora Pres - 3/19 Enterprise Dr Bundoora_
 
