@@ -15,12 +15,6 @@ What are the objections and issues that Christianity faces today? Learn how to w
 
 ***
 
-## English Conversation Club
-_5:30pm-7pm Thursday nights in the Hub_
-
-Also this year, we've launched a free English conversation club! Please contact [John] if you’re interested in being a part of it, or helping out as a teacher.
-
-***
 
 ## Toastmasters apologetics
 _The 2nd Tuesday of the month, 6pm-8:30pm, 26 King St_
@@ -29,10 +23,10 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 
 ***
 
-## Easter Services
-_10am Good Friday, 5pm Easter Sunday_
+## Squeaky Clean Comedy
+_7:30pm-9pm, Saturday April 11_
 
-Come and celebrate Easter and all that it means for us and for the world. 10am on Good Friday (April 3) at 318 Russell St, and 5pm Easter Sunday (April 5) in the hub.
+Come and enjoy some good, clean comedy; part of the Melbourne International Comedy Festival. Tickets are $40 for adults, $32 for concession, or $28 if there’s more than 8 of us. Check out [http://candlelightproductions.com.au/whats-on/squeaky-clean-comedy](http://candlelightproductions.com.au/whats-on/squeaky-clean-comedy) for more info. RSVP on [Facebook](www.facebook.com/events/754255954673172)
 
 ***
 
