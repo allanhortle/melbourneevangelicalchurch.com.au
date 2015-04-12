@@ -23,24 +23,6 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 
 ***
 
-## Squeaky Clean Comedy
-_7:30pm-9pm, Saturday April 11_
-
-Come and enjoy some good, clean comedy; part of the Melbourne International Comedy Festival. Tickets are $40 for adults, $32 for concession, or $28 if there’s more than 8 of us. Check out [http://candlelightproductions.com.au/whats-on/squeaky-clean-comedy](http://candlelightproductions.com.au/whats-on/squeaky-clean-comedy) for more info. RSVP on [Facebook](www.facebook.com/events/754255954673172)
-
-***
-
-## Women’s Training - Dealing with Abortion
-_3pm Sunday April 12, in the multicultural hub_
-
-Juen Nin, who trained in medicine, will be leading a discussion of how we can respond to abortion, and those who advocate for it.
-
-## Men’s Training - Dealing with Homosexuality
-_3pm Sunday April 12, in the multicultural hub_
-
-John will be leading a discussion on homosexuality, with practical advice on how to respond to those who advocate for it. 
-
-***
 
 ## Balancing Work And Church Breakfast
 _Thursday April 23, 7:15am-8:30am, 215 Queen St_
