@@ -31,6 +31,18 @@ How do I have time for "ministry" when my work is so demanding? Join us as we th
 
 ***
 
+## Games Night
+_Friday April 24, 7pm, 318 Russell St_
+Board games, video games, any kind of games you can think of, we want to play it! This Friday (April 24), from 7pm at Ivan's place in the city. Speak to Ivan, or Rsvp on the [Facebook event page](facebook.com/events/1576265732612229).
+
+***
+
+## Belgrave Heights Mens Convention
+_Friday night May 22 and Saturday May 23, Belgrave Heights Convention Centre_
+What does it mean to follow Jesus? What are the specific challenges for men seeking to "follow that man" in the 21st century? Come along for the most masculine Christian teaching in Melbourne. Speakers include Al Stewart, Leon Stead, and Andrew Scipione. Contact John, or register [here](http://www.bhc.org.au/v2/index.php?id=84)
+
+***
+
 ## Word In Song
 _Sat May 2. Bundoora Pres - 3/19 Enterprise Dr Bundoora_
 
