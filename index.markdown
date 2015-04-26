@@ -23,17 +23,10 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 
 ***
 
+## Word In Song
+_Sat May 2. Bundoora Pres - 3/19 Enterprise Dr Bundoora_
 
-## Balancing Work And Church Breakfast
-_Thursday April 23, 7:15am-8:30am, 215 Queen St_
-
-How do I have time for "ministry" when my work is so demanding? Join us as we think about how we can balance work and church. Register at [lifeatwork.org.au/events](http://lifeatwork.org.au/events)
-
-***
-
-## Games Night
-_Friday April 24, 7pm, 318 Russell St_
-Board games, video games, any kind of games you can think of, we want to play it! This Friday (April 24), from 7pm at Ivan's place in the city. Speak to Ivan, or Rsvp on the [Facebook event page](facebook.com/events/1576265732612229).
+Come and explore what God’s Word has to say about truth and creativity, and touching our souls through music! Specialised music training workshops available. Register at [wordinsong.com.au](http://wordinsong.com.au)
 
 ***
 
@@ -43,12 +36,6 @@ What does it mean to follow Jesus? What are the specific challenges for men seek
 
 ***
 
-## Word In Song
-_Sat May 2. Bundoora Pres - 3/19 Enterprise Dr Bundoora_
-
-Come and explore what God’s Word has to say about truth and creativity, and touching our souls through music! Specialised music training workshops available. Register at [wordinsong.com.au](http://wordinsong.com.au)
-
-***
 
 ## Entrust Women: Love Unlimited
 _May 9th, Holy Trinity Doncaster_
