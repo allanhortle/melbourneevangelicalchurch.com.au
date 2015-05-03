@@ -21,12 +21,6 @@ _The 2nd Tuesday of the month, 6pm-8:30pm, 26 King St_
 
 Rob Martin (Director of City Bible Forum) and John are starting an apologetics training group this year. Please speak to [John] if you’re interested in being a part of it.
 
-***
-
-## Word In Song
-_Sat May 2. Bundoora Pres - 3/19 Enterprise Dr Bundoora_
-
-Come and explore what God’s Word has to say about truth and creativity, and touching our souls through music! Specialised music training workshops available. Register at [wordinsong.com.au](http://wordinsong.com.au)
 
 ***
 
