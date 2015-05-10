@@ -31,19 +31,6 @@ What does it mean to follow Jesus? What are the specific challenges for men seek
 ***
 
 
-## Entrust Women: Love Unlimited
-_May 9th, Holy Trinity Doncaster_
-
-​​"We’re a group of women from different churches in Melbourne with a dream: To offer great Bible teaching by women and for women in Melbourne. 
-
-We’ve talked with other women, and they tell us this is what they want. It’s what they hunger for. Not just fluff, but good, solid, substantial encouragement from God’s word.
-
-Last year, a group of us got together and started talking about this dream. We came up with an idea: an annual, day-long conference, where women from different churches across Melbourne can get together to encourage each other, hear great Bible teaching by other women, and get training in how to help women know and grow in Jesus. And so Entrust Women was born."
-
-Register at: [http://www.entrustwomen.com.au/register.html](http://www.entrustwomen.com.au/register.html)
-
-***
-
 [John]: mailto:john.david.hudson@gmail.com
 
 
