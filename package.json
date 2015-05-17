@@ -1,0 +1,24 @@
+{
+  "name": "melbourneevangelicalchurch",
+  "version": "0.0.0",
+  "description": "melbourneevangelical.church",
+  "scripts": {
+    "test": "test",
+    "start": "node app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melbourneevangelicalchurch/melbourneevangelicalchurch.github.io.git"
+  },
+  "author": "Allan Hortle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melbourneevangelicalchurch/melbourneevangelicalchurch.github.io/issues"
+  },
+  "homepage": "https://github.com/melbourneevangelicalchurch/melbourneevangelicalchurch.github.io",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "stalactite": "0.0.5"
+  }
+}
