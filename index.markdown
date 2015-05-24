@@ -12,9 +12,9 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 
 
 ## You’re invited to a MOLDI Dinner
-_7:30pm at Thai City – 124 Lygon Street Carlton._  
+_Tuesday June 23 7:30pm at Thai City – 124 Lygon Street Carlton._  
 Meaning Of Life Discussed Intelligently Dinner. Please join us as we discuss the big questions of life
-in a friendly relaxed environment. Tuesday June 23
+in a friendly relaxed environment. 
 
 ***
 
