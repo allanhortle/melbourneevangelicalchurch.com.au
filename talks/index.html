@@ -10,17 +10,22 @@ title: Bible Talks
 
             {% if month != nmonth %}
                 {% if forloop.index != 1 %}</ul>{% endif %}
-                <h3>{{ post.date | date: '%B' }}</h3><ul class="posts">
+                <h2>{{ post.date | date: '%B' }}</h2><ul class="posts">
             {% endif %}
 
             {% if post.layout == 'post' %}
             <li>
                 <a class="post" href="{{ post.url }}">
                     <span class="l-right t-right post_meta">
-                        <span class="post_author">{{post.author}},</span>
+                        <!-- <span class="post_author">{{post.author}},</span> -->
                         <time class="post_date">{{ post.date | date_to_string }}</time>
+
                     </span>
                     <div class="post_title">{{ post.title }}</div>
+                    <small class="post_meta">
+                        {{post.passage}},
+                        {{post.author}}
+                    </small>
                 </a>
             </li>
         {% endif %}

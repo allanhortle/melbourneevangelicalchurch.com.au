@@ -11,12 +11,10 @@ As Evangelicals, we emphasise the teaching of the Bible, the cross of Christ, th
 Our purpose is to proclaim Jesus, admonishing and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ (Colossians 1:28).  
 
 
-<div class="row2"></div>
-
-
 ## Why are city churches important?
 
 In Rodney Stark’s book The Rise of Christianity, Stark notes: 
+
 > “To cities filled with the homeless and impoverished, Christianity offered charity as well as hope. To cities filled with newcomers and strangers, Christianity offered an immediate basis for attachments. To cities filled with orphans and widows, Christianity provided a new and expanded sense of family. To cities torn by violent ethnic strife, Christianity offered a new basis for social solidarity.” 
 
 We’d love to be a church like this for the city of Melbourne, but we need your help.
@@ -29,25 +27,21 @@ The church is not a museum of saints, but a hospital for sinners. Whatever your 
 
 ## Our Team
 
-<img class="l-left avatar" src="/res/img/people/john.jpg" height="60">
+<img class="l-left avatar" src="/res/img/people/john.jpg" height="64">
 __John Hudson__ is our lead pastor. He’s married to Bek and has three kids (Hannah, David and Abigail). John grew up in Melbourne and studied at RMIT and Moore College. John loves Jesus, the city, music, snowboarding and video games.
 
-***
 
-<img class="l-left avatar" src="/res/img/people/casey.jpg" height="60">
+<img class="l-left avatar" src="/res/img/people/casey.jpg" height="64">
 __Casey Ku__ is our secretary. She grew up in Melbourne, and over the last four years has been working at a dispute resolution service. Casey loves Jesus and enjoys reading, catching up with friends over a good cup of coffee and watching documentaries.
 
-***
 
-<img class="l-left avatar" src="/res/img/people/edward.jpg" height="60">
+<img class="l-left avatar" src="/res/img/people/edward.jpg" height="64">
 __Edward Tan__ is our treasurer. He grew up in Singapore. Edward is studying architecture at RMIT City. He also loves staring into space and thinking about things on a cold night while lying on the sofa with a warm dim light on and a warm cup of tea in hand.
 
-***
 
-<img class="l-left avatar" src="/res/img/people/allan.jpg" height="60">
+<img class="l-left avatar" src="/res/img/people/allan.jpg" height="64">
 __Allan Hortle__ is a member of the board. He's married to Fiona and works as a UI Designer in Richmond. Allan grew up in Tasmania and loves Jesus, the internet and computer games with names ending in craft. <br>
 
-***
 
-<img class="l-left avatar" src="/res/img/people/ross.jpg" height="60">
+<img class="l-left avatar" src="/res/img/people/ross.jpg" height="64">
 __Ross Taylor__ is a member of the board. Ross grew up in Melbourne and works in learning and technology. He likes coffee and street photography. 

@@ -6,17 +6,10 @@ title:  Welcome
 Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (blue room), __506 Elizabeth St Melbourne.__
 
 
-<div class="row2"></div>
-
-***
-
-
 ## You’re invited to a MOLDI Dinner
 _Tuesday June 23 7:30pm at Thai City – 124 Lygon Street Carlton._  
 Meaning Of Life Discussed Intelligently Dinner. Please join us as we discuss the big questions of life
 in a friendly relaxed environment. 
-
-***
 
 
 ## Experiencing God in the Psalms
@@ -34,16 +27,10 @@ Next month, we’ll be continuing our series on experiencing God in the Psalms. 
  * _August 9_,    Psalm 21    Experiencing God’s Victory over Evil
  * _August 16_,   Psalm 22    Experiencing God’s Gospel of Jesus Christ
 
-&nbsp;
-***
-
 
 ## Toastmasters apologetics
-_The 2nd Tuesday of the month, 6pm-8:30pm, 26 King St_
-
+_The 2nd Tuesday of the month, 6pm-8:30pm, 26 King St_  
 Rob Martin (Director of City Bible Forum) and John are starting an apologetics training group this year. Please speak to [John] if you’re interested in being a part of it.
-
-***
 
 
 [John]: mailto:john.david.hudson@gmail.com
