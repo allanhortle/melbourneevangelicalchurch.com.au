@@ -6,29 +6,31 @@ title:  Welcome
 Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (blue room), __506 Elizabeth St Melbourne.__
 
 
-<div class="row2"></div>
+## You’re invited to a MOLDI Dinner
+_Tuesday June 23 7:30pm at Thai City – 124 Lygon Street Carlton._  
+Meaning Of Life Discussed Intelligently Dinner. Please join us as we discuss the big questions of life
+in a friendly relaxed environment. 
 
-***
 
-## Growth Groups - Towards Belief
-What are the objections and issues that Christianity faces today? Learn how to wrestle with the big questions that hold people back from faith, and see how we can move towards belief. Hear John Lennox, John Dickson, and many more, answering the toughest questions Australians have about belief in Christianity. Contact [John] to join a growth group.
+## Experiencing God in the Psalms
+Next month, we’ll be continuing our series on experiencing God in the Psalms. Don’t just know about God, experience God!
 
-***
+ * _June 7_,      Psalm 12    Experiencing God’s Truth in a World of Confusion
+ * _June 14_,    Psalm 13    Experiencing God in Pain and Suffering
+ * _June 21_,     Psalm 14    Experiencing God in a World the Rejects Him
+ * _June 28_,     Psalm 15    Experiencing God’s Costly Integrity
+ * _July 5_,     Psalm 16    Experiencing God in Whole-Life Worship
+ * _July 12_,     Psalm 17    Experiencing God’s Life Changing Hope
+ * _July 19_,     Psalm 18    Experiencing God’s Power to Save
+ * _July 26_,     Psalm 19    Experiencing God’s Glory Throughout the Earth
+ * _August 2_,    Psalm 20    Experiencing God in Prayer and Supplication
+ * _August 9_,    Psalm 21    Experiencing God’s Victory over Evil
+ * _August 16_,   Psalm 22    Experiencing God’s Gospel of Jesus Christ
 
 
 ## Toastmasters apologetics
-_The 2nd Tuesday of the month, 6pm-8:30pm, 26 King St_
-
+_The 2nd Tuesday of the month, 6pm-8:30pm, 26 King St_  
 Rob Martin (Director of City Bible Forum) and John are starting an apologetics training group this year. Please speak to [John] if you’re interested in being a part of it.
-
-
-***
-
-## Belgrave Heights Mens Convention
-_Friday night May 22 and Saturday May 23, Belgrave Heights Convention Centre_
-What does it mean to follow Jesus? What are the specific challenges for men seeking to "follow that man" in the 21st century? Come along for the most masculine Christian teaching in Melbourne. Speakers include Al Stewart, Leon Stead, and Andrew Scipione. Contact John, or register [here](http://www.bhc.org.au/v2/index.php?id=84)
-
-***
 
 
 [John]: mailto:john.david.hudson@gmail.com
