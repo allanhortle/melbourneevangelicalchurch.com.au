@@ -6,5 +6,5 @@ stalactite.build({
     src: {
         talks: '_posts/**/*.{md,markdown}'
     },
-    dest: './dest'
+    dest: 'dest'
 });
