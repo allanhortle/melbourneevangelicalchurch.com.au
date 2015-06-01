@@ -5,6 +5,9 @@ title:  Welcome
 
 Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (blue room), __506 Elizabeth St Melbourne.__
 
+## Life at work breakfast: balancing work, studies, hobbies & exercise
+_Thursday June 18, 7:15am-8:30am, 215 Queen St_
+How important are extra-curricular activities? Come for a City Bible Forum breakfast, and join the conversation. Register at [www.lifeatwork.org.au/events](www.lifeatwork.org.au/events)
 
 ## You’re invited to a MOLDI Dinner
 _Tuesday June 23 7:30pm at Thai City – 124 Lygon Street Carlton._  
