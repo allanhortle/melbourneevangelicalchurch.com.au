@@ -16,9 +16,9 @@ in a friendly relaxed environment.
 
 
 ## Experiencing God in the Psalms
-Next month, we’ll be continuing our series on experiencing God in the Psalms. Don’t just know about God, experience God!
+This winter, we’ll be continuing our series on experiencing God in the Psalms. Don’t just know about God, experience God!
 
- * _June 7_,      Psalm 12    Experiencing God’s Truth in a World of Confusion
+ * [Psalm 12: Experiencing God’s Truth in a World of Confusion](2015/06/07/psalm_12-experiencing_gods_truth_in_a_world_of_confusion-john_hudson.html)
  * _June 14_,    Psalm 13    Experiencing God in Pain and Suffering
  * _June 21_,     Psalm 14    Experiencing God in a World the Rejects Him
  * _June 28_,     Psalm 15    Experiencing God’s Costly Integrity

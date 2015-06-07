@@ -54,6 +54,10 @@ a {
 
 }
 
+ul {
+    list-style: square;
+}
+
 blockquote {
     background-color: rgb(230, 230, 230);
     padding: 0.5rem 1.5rem;
@@ -295,7 +299,7 @@ audio{
 
 .usercontent ul {
     padding-left: 32px;
-    list-style-type: disc;
+    list-style-type: square;
 }
 
 .post a,
