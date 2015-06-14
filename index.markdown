@@ -9,8 +9,12 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 _Thursday June 18, 7:15am-8:30am, 215 Queen St_
 How important are extra-curricular activities? Come for a City Bible Forum breakfast, and join the conversation. Register at [www.lifeatwork.org.au/events](www.lifeatwork.org.au/events)
 
+## Badminton This Sunday, From 1:30pm at MSAC
+_Sunday June 21, 1:30pm, 30 Aughtie Drive Albert Park_
+Want to hang out and play some badminton next Sunday? Join us for some friendly badminton, followed by some afternoon tea before church. Talk to Ross for more info.
+
 ## You’re invited to a MOLDI Dinner
-_Tuesday June 23 7:30pm at Thai City – 124 Lygon Street Carlton._  
+_Tuesday June 23 7:30pm, Thai City – 124 Lygon Street Carlton_  
 Meaning Of Life Discussed Intelligently Dinner. Please join us as we discuss the big questions of life
 in a friendly relaxed environment. 
 
@@ -19,7 +23,7 @@ in a friendly relaxed environment.
 This winter, we’ll be continuing our series on experiencing God in the Psalms. Don’t just know about God, experience God!
 
  * [Psalm 12: Experiencing God’s Truth in a World of Confusion](2015/06/07/psalm_12-experiencing_gods_truth_in_a_world_of_confusion-john_hudson.html)
- * _June 14_,    Psalm 13    Experiencing God in Pain and Suffering
+ * [Psalm 13: Experiencing God in Pain and Suffering](2015/06/14/psalm_13-experiencing_god_in_pain_and_suffering-john_hudson.html)
  * _June 21_,     Psalm 14    Experiencing God in a World the Rejects Him
  * _June 28_,     Psalm 15    Experiencing God’s Costly Integrity
  * _July 5_,     Psalm 16    Experiencing God in Whole-Life Worship
