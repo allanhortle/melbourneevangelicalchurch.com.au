@@ -71,7 +71,7 @@ hr{
 }
 
 p, .row{
-    margin:1em 0;
+    margin:2em 0;
 }
 
 .row2 {
@@ -309,4 +309,9 @@ audio{
     white-space: pre-wrap;
 }
 
+
+article img {
+    display: block;
+    margin: auto;
+}
 
