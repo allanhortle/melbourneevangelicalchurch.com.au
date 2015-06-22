@@ -5,10 +5,22 @@ url: http://melbourneevangelicalchurch.com.au
 service_time: 5:00pm
 staticURL: https://s3-ap-southeast-2.amazonaws.com/static.melbourneevangelicalchurch.com.au/
 bibleAPIKey: gn9tZo6THRRJ9fElH32uaPI1fwOgXLuSCAS8TCbf
-markdown: redcarpet
+collections:
+  resources:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: resource
+markdown: kramdown
 highlighter: pygments
 exclude:
   - node_modules
 gems:
   - jekyll-sitemap
+sass:
+    sass_dir: _sass
+    style: :compressed
 

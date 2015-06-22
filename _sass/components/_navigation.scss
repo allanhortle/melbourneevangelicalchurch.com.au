@@ -1,0 +1,81 @@
+/*
+|--------------------------------------------------------------------------
+| Navigation
+|--------------------------------------------------------------------------
+|
+*/
+
+.menu{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    background-color: #e6e6e6;
+    color: #444;
+    position:absolute;
+    top:42px;
+    width:100%;
+    text-align: left;
+    display:none;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.menu a{
+    display:block;
+    padding:24px 16px;
+
+}
+
+@media all and (min-width: 50em) {
+    .menu{
+        position:static;
+        display:block;
+        text-align: center;
+    }
+    .menu li{
+        display:inline-block;
+    }
+
+    .nav_toggle{
+        display:none;
+    }
+}
+
+/*
+|--------------------------------------------------------------------------
+| Menu Functional Styles
+|--------------------------------------------------------------------------
+*/
+
+#toggle{display: none;}
+#toggle:checked + div .menu { display: block; opacity: 1;}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| Navigation Toggle
+|--------------------------------------------------------------------------
+|
+| Hamburger!
+|
+*/
+
+#toggle:checked + div .nav_toggle{
+    background-color: #121212;
+}
+
+.nav_ham{
+    height:4px;
+    background-color: white;
+    margin-bottom:4px;
+    display: block;
+}
+
+.nav_toggle{
+    top:0;
+    left:0;
+    padding:12px;
+    position: absolute;
+    width:24px;
+    height:24px; }
