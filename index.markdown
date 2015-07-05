@@ -13,7 +13,7 @@ This winter, we’ll be continuing our series on experiencing God in the Psalms.
  * [Psalm 13: Experiencing God in Pain and Suffering][Psalm13]
  * [Psalm 14: Experiencing God in a World the Rejects Him][Psalm14]
  * [Psalm 15: Experiencing God’s Costly Integrity][Psalm15]
- * _July 5_,     Psalm 16    Experiencing God in Whole-Life Worship
+ * [Psalm 16: Experiencing God in Whole-Life Worship][Psalm16]
  * _July 12_,     Psalm 17    Experiencing God’s Life Changing Hope
  * _July 19_,     Psalm 18    Experiencing God’s Power to Save
  * _July 26_,     Psalm 19    Experiencing God’s Glory Throughout the Earth
@@ -32,6 +32,7 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 [Psalm13]: /2015/06/14/psalm_13-experiencing_god_in_pain_and_suffering-john_hudson.html
 [Psalm14]: /2015/06/21/psalm_14-experiecing_god_in_a_world_that_rejects_him-john_hudson.html
 [Psalm15]: /2015/06/28/psalm_15-experiencing_gods_costly_integrity-john_hudson.html
+[Psalm16]: /2015/07/04/psalm_16-experiencing_god_in_whole_life_worship-oli_blythe.html
 
 
 
