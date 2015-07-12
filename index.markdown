@@ -14,7 +14,7 @@ This winter, we’ll be continuing our series on experiencing God in the Psalms.
  * [Psalm 14: Experiencing God in a World the Rejects Him][Psalm14]
  * [Psalm 15: Experiencing God’s Costly Integrity][Psalm15]
  * [Psalm 16: Experiencing God in Whole-Life Worship][Psalm16]
- * _July 12_,     Psalm 17    Experiencing God’s Life Changing Hope
+ * [Psalm 17: Experiencing God’s Life Changing Hope][Psalm17]
  * _July 19_,     Psalm 18    Experiencing God’s Power to Save
  * _July 26_,     Psalm 19    Experiencing God’s Glory Throughout the Earth
  * _August 2_,    Psalm 20    Experiencing God in Prayer and Supplication
@@ -33,6 +33,7 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 [Psalm14]: /2015/06/21/psalm_14-experiecing_god_in_a_world_that_rejects_him-john_hudson.html
 [Psalm15]: /2015/06/28/psalm_15-experiencing_gods_costly_integrity-john_hudson.html
 [Psalm16]: /2015/07/04/psalm_16-experiencing_god_in_whole_life_worship-oli_blythe.html
+[Psalm17]: /2015/07/12/psalm_17-experiencing_hope_through_the_lens_of_justice-allan_hortle.html
 
 
 
