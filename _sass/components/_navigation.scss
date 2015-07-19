@@ -70,7 +70,7 @@
     background-color: white;
     margin-bottom:4px;
     display: block;
-    box-sizing: content-box;
+
 }
 
 .nav_toggle{
@@ -79,4 +79,6 @@
     padding:12px;
     position: absolute;
     width:24px;
-    height:24px; }
+    height:24px;
+    box-sizing: content-box;
+}
