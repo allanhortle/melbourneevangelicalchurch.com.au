@@ -6,6 +6,11 @@ title:  Welcome
 Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (blue room), __506 Elizabeth St Melbourne.__
 
 
+## MTS Challenge – Saturday August 1, 9am-4:30pm
+_Holy Trinity Doncaster (106 Church Rd Doncaster)_
+We are all wired and gifted differently, and this gospel expo will seek to highlight some areas for potential gospel work. If you’re wondering how you can serve, and what opportunities are available, MTS challenge is for you! For more information, and to register online, go to [www.mts.com.au/vic-challenge-conference](http://www.mts.com.au/vic-challenge-conference)
+
+
 ## Experiencing God in the Psalms
 This winter, we’ll be continuing our series on experiencing God in the Psalms. Don’t just know about God, experience God!
 

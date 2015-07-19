@@ -32,6 +32,23 @@ img.right{
 }
 
 
+.w50 {
+    width: 50%;
+}
+
+.Table {
+    th {
+        padding: 1rem;
+        // text-align: left;
+        background-color: #ddd;
+        border: 1px solid #ddd;
+    }
+    td {
+        border: 1px solid #ddd;
+        padding: 1rem;
+    }
+}
+
 
 
 
