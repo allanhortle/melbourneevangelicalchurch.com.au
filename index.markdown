@@ -10,6 +10,11 @@ Thanks for visiting our website. Whoever you are and whatever your background, w
 _Holy Trinity Doncaster (106 Church Rd Doncaster)_
 We are all wired and gifted differently, and this gospel expo will seek to highlight some areas for potential gospel work. If you’re wondering how you can serve, and what opportunities are available, MTS challenge is for you! For more information, and to register online, go to [www.mts.com.au/vic-challenge-conference](http://www.mts.com.au/vic-challenge-conference)
 
+## Hot Topics Night – Going Against the Flow?
+_Wednesday August 5, 7pm-9pm in the Rainbow room (Multicultural Hub)_
+Does being a Christian mean going against the flow of culture? How and when should we do this? If you’re interested in these questions, come along, and feel free to [invite others as well](https://www.facebook.com/events/986604658036928/).
+
+
 
 ## Experiencing God in the Psalms
 This winter, we’ll be continuing our series on experiencing God in the Psalms. Don’t just know about God, experience God!
@@ -20,14 +25,14 @@ This winter, we’ll be continuing our series on experiencing God in the Psalms.
  * [Psalm 15: Experiencing God’s Costly Integrity][Psalm15]
  * [Psalm 16: Experiencing God in Whole-Life Worship][Psalm16]
  * [Psalm 17: Experiencing God’s Life Changing Hope][Psalm17]
- * _July 19_,     Psalm 18    Experiencing God’s Power to Save
- * _July 26_,     Psalm 19    Experiencing God’s Glory Throughout the Earth
+ * [Psalm 18: Experiencing God’s Power to Save][Psalm18]
+ * [Psalm 19: Experiencing God’s Glory Throughout the Earth][Psalm19]
  * _August 2_,    Psalm 20    Experiencing God in Prayer and Supplication
  * _August 9_,    Psalm 21    Experiencing God’s Victory over Evil
  * _August 16_,   Psalm 22    Experiencing God’s Gospel of Jesus Christ
 
 
-## Toastmasters apologetics
+## Toastmasters Apologetics Training
 _The 2nd Tuesday of the month, 6pm-8:30pm, 26 King St_  
 Rob Martin (Director of City Bible Forum) and John are starting an apologetics training group this year. Please speak to [John] if you’re interested in being a part of it.
 
@@ -39,6 +44,8 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 [Psalm15]: /2015/06/28/psalm_15-experiencing_gods_costly_integrity-john_hudson.html
 [Psalm16]: /2015/07/04/psalm_16-experiencing_god_in_whole_life_worship-oli_blythe.html
 [Psalm17]: /2015/07/12/psalm_17-experiencing_hope_through_the_lens_of_justice-allan_hortle.html
+[Psalm18]: /2015/07/19/psalm_18-experiencing_gods_power_to_save-john_hudson.html
+[Psalm19]: /2015/07/26/psalm_19-experiencing_god_through_his_word-john_hudson.html
 
 
 
