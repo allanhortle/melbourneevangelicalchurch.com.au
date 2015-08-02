@@ -21,6 +21,8 @@ gzip:
 
 exclude_from_upload:
   - app
+  - mev.sublime-workspace
+  - mev.sublime-project
 #   - i_wouldnt_want_to_upload
 
 # s3_reduced_redundancy: true
