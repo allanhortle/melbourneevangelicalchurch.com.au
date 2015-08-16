@@ -23,7 +23,7 @@ This winter, we’ll be continuing our series on experiencing God in the Psalms.
  * [Psalm 19: Experiencing God’s Glory Throughout the Earth][Psalm19]
  * [Psalm 20: Experiencing God Through Prayer][Psalm20]
  * [Psalm 21: Experiencing Experiencing God’s Victory over Evil][Psalm21]
- * _August 16_,   Psalm 22    Experiencing God’s Gospel of Jesus Christ
+ * [Psalm 22: Experiencing God’s Gospel of Jesus Christ][Psalm22]
 
 
 ## Toastmasters Apologetics Training
@@ -42,6 +42,4 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 [Psalm19]: /2015/07/26/psalm_19-experiencing_god_through_his_word-john_hudson.html
 [Psalm20]: /2015/08/02/psalm_20-experiencing_god_through_prayer-john_hudson.html
 [Psalm21]: /2015/08/09/psalm_21-experiencing_gods_victory_over_evil-john_hudson.html
-
-
-
+[Psalm22]: /2015/08/16/psalm_22-experiencing_gods_gospel_of_jesus_christ-john_hudson.html
