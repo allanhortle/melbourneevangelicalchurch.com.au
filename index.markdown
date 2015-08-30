@@ -5,10 +5,13 @@ title:  Welcome
 
 Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (blue room), __506 Elizabeth St Melbourne.__
 
-## Life @ Work Breakfast: Balancing Work and Rest
-_Thursday August 27, 7:15am-8:30am, Michelangelo’s Cafe: 215 Queen St_
-Join us as we consider the reasons for our busyness, what true rest is, and practical ways to “resist” the culture around us and take rest. Consider also the powerful witness your rest can be to your colleagues. Details and registration at <http://lifeatwork.org.au/events>
+## Engaging Muslims Today - Friday September 11
+_7:15am-8:30am, Michaelangelo’s Cafe (215 Queen St)_
+How do I speak with my Muslim friends? How do we engage thoughtfully and respectfully? Be encouraged by God’s work in Pakistan, learn more about Islam and pick up some tips for faith sharing with friends. Our speaker is Ashkenaz Asif, Principal of Zarephath Bible Seminary, a leading evangelical training college located near Islamabad in the Islamic Republic of Pakistan. [Register Here.](www.citybibleforum.org/city/melbourne/event/engaging-muslims-today)
 
+## Connect Training Conference
+_Passing on the Baton, Weekend Conference - September 25-27_
+Join us as we hear from Phillip Jensen who will share from 2 Timothy. Come and be encouraged, empowered and equipped to pass on the baton of the Gospel for the sake of the elect and the glory of God. Strand groups include Reading the Bible, Biblical Theology, Systematic Theology, Ethics, Gospel Centered Relationships, and Gospel Shaped Work. [Details and registrations.](www.connect-ministry.org/events/ctc/registration)
 
 ## Experiencing God in the Psalms
 This winter, we’ll be continuing our series on experiencing God in the Psalms. Don’t just know about God, experience God!
