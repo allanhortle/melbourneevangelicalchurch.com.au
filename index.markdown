@@ -5,13 +5,20 @@ title:  Welcome
 
 Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (blue room), __506 Elizabeth St Melbourne.__
 
-## Engaging Muslims Today - Friday September 11
-_7:15am-8:30am, Michaelangelo’s Cafe (215 Queen St)_
-How do I speak with my Muslim friends? How do we engage thoughtfully and respectfully? Be encouraged by God’s work in Pakistan, learn more about Islam and pick up some tips for faith sharing with friends. Our speaker is Ashkenaz Asif, Principal of Zarephath Bible Seminary, a leading evangelical training college located near Islamabad in the Islamic Republic of Pakistan. [Register Here.](www.citybibleforum.org/city/melbourne/event/engaging-muslims-today)
+## Towards Gospel Unity Day Conference
+_Friday September 25, 9am-3pm_
+South Camberwell Gospel Hall (910 Toorak Road, South Camberwell)
+How can we work towards gospel unity today? Around what should we unite? And over what should we divide? Join us for this special day conference as Phillip Jensen answers these important questions. For more information and online registration, go to [www.trybooking.com/ITWL](http://www.trybooking.com/ITWL)
 
 ## Connect Training Conference
 _Passing on the Baton, Weekend Conference - September 25-27_
 Join us as we hear from Phillip Jensen who will share from 2 Timothy. Come and be encouraged, empowered and equipped to pass on the baton of the Gospel for the sake of the elect and the glory of God. Strand groups include Reading the Bible, Biblical Theology, Systematic Theology, Ethics, Gospel Centered Relationships, and Gospel Shaped Work. [Details and registrations.](www.connect-ministry.org/events/ctc/registration)
+
+## Suffering & The God Question. 
+_Two events in Melbourne: October 9 & 10_
+Friday night: a lecture & conversation with John Dickson (Cross Culture)
+Saturday: a series of talks and streamed workshops (Scots Presbyterian)
+Join us as we think about suffering and our relationship with God, with John Dickson, author of If I Were God I’d End All the Pain. More information and online registration at [sufferingandthegodquestion.com.au](http://www.sufferingandthegodquestion.com.au)
 
 ## Experiencing God in the Psalms
 This winter, we’ll be continuing our series on experiencing God in the Psalms. Don’t just know about God, experience God!
