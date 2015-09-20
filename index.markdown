@@ -20,20 +20,24 @@ Friday night: a lecture & conversation with John Dickson (Cross Culture)
 Saturday: a series of talks and streamed workshops (Scots Presbyterian)
 Join us as we think about suffering and our relationship with God, with John Dickson, author of If I Were God I’d End All the Pain. More information and online registration at [sufferingandthegodquestion.com.au](http://www.sufferingandthegodquestion.com.au)
 
-## Experiencing God in the Psalms
-This winter, we’ll be continuing our series on experiencing God in the Psalms. Don’t just know about God, experience God!
+## The Relevance of Faith
+_Wednesday October 14, 6pm at Cross Culture_
+How is Christian faith relevant in the 21st century in Melbourne? What does Christianity have to offer to an unbelieving world? Come and hear the summary of our series on the relevance of faith.
 
- * [Psalm 12: Experiencing God’s Truth in a World of Confusion][Psalm12]
- * [Psalm 13: Experiencing God in Pain and Suffering][Psalm13]
- * [Psalm 14: Experiencing God in a World the Rejects Him][Psalm14]
- * [Psalm 15: Experiencing God’s Costly Integrity][Psalm15]
- * [Psalm 16: Experiencing God in Whole-Life Worship][Psalm16]
- * [Psalm 17: Experiencing God’s Life Changing Hope][Psalm17]
- * [Psalm 18: Experiencing God’s Power to Save][Psalm18]
- * [Psalm 19: Experiencing God’s Glory Throughout the Earth][Psalm19]
- * [Psalm 20: Experiencing God Through Prayer][Psalm20]
- * [Psalm 21: Experiencing Experiencing God’s Victory over Evil][Psalm21]
- * [Psalm 22: Experiencing God’s Gospel of Jesus Christ][Psalm22]
+## How The Gospel Impacts Everything
+This Spring, we’ll be continuing our series on 1 Corinthians.
+
+ * [1 Corinthians 1-2, How the Gospel Impacts Wisdom][1Cor1-2]
+ * [1 Corinthians 3, How the Gospel Impacts Ministry][1Cor3]
+ * [1 Corinthians 4, How the Gospel Impacts Acheivement][1Cor4]
+ * [1 Corinthians 5-6, How the Gospel Impacts Sex and Money][1Cor5-6]
+ * [1 Corinthians 7, How the Gospel Impacts Marriage][1Cor7]
+ * Sep 27 - 1 Corinthians 8-9, How the Gospel Impacts Freedom
+ * Oct 4 - 1 Corinthians 10-11, How the Gospel Impacts Food and Drink
+ * Oct 11 - 1 Corinthians 12, How the Gospel Impacts Your Gifts
+ * Oct 18 - 1 Corinthians 13, How the Gospel Impacts Love
+ * Oct 25 - 1 Corinthians 14, How the Gospel Impacts Church
+ * Nov 1 - 1 Corinthians 15-16, How the Gospel Impacts Life and Death
 
 
 ## Toastmasters Apologetics Training
@@ -42,6 +46,12 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 
 
 [John]: mailto:john.david.hudson@gmail.com
+[1Cor1-2]: /2015/08/23/1_corinthians_1-2-how_the_gospel_impacts_wisdom-john_hudson.html
+[1Cor3]:   /2015/08/30/1_corinthians_3-how_the_gospel_impacts_ministry-john_hudson.html
+[1Cor4]:   /2015/09/06/1_corinthians_4-how_the_gospel_impacts_achievement-john_hudson.html
+[1Cor5-6]: /2015/09/13/1_corinthians_5-6-how_the_gospel_impacts_sex_and_money-john_hudson.html
+[1Cor7]:   /2015/09/20/1_corinthians_7-how_the_gospel_impacts_marriage-john_hudson.html
+
 [Psalm12]: /2015/06/07/psalm_12-experiencing_gods_truth_in_a_world_of_confusion-john_hudson.html
 [Psalm13]: /2015/06/14/psalm_13-experiencing_god_in_pain_and_suffering-john_hudson.html
 [Psalm14]: /2015/06/21/psalm_14-experiecing_god_in_a_world_that_rejects_him-john_hudson.html
