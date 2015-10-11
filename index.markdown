@@ -5,12 +5,6 @@ title:  Welcome
 
 Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (blue room), __506 Elizabeth St Melbourne.__
 
-## Suffering & The God Question. 
-_Two events in Melbourne: October 9 & 10_
-Friday night: a lecture & conversation with John Dickson (Cross Culture)
-Saturday: a series of talks and streamed workshops (Scots Presbyterian)
-Join us as we think about suffering and our relationship with God, with John Dickson, author of If I Were God I’d End All the Pain. More information and online registration at [sufferingandthegodquestion.com.au](http://www.sufferingandthegodquestion.com.au)
-
 ## The Relevance of Faith
 _Wednesday October 14, 6pm at Cross Culture_
 How is Christian faith relevant in the 21st century in Melbourne? What does Christianity have to offer to an unbelieving world? Come and hear the summary of our series on the relevance of faith.
