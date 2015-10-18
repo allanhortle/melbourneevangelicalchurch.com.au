@@ -5,9 +5,13 @@ title:  Welcome
 
 Thanks for visiting our website. Whoever you are and whatever your background, we'd love to see you this __Sunday, 5pm__ in the Multicultural Hub (blue room), __506 Elizabeth St Melbourne.__
 
-## The Relevance of Faith
-_Wednesday October 14, 6pm at Cross Culture_
-How is Christian faith relevant in the 21st century in Melbourne? What does Christianity have to offer to an unbelieving world? Come and hear the summary of our series on the relevance of faith.
+## City Bible Forum, Life at Work Conference – Witness: Word and Deed
+_6pm-9pm, Wednesday Oct 28 and Thursday Oct 29, 263 William Street_
+The Gospel is good news. So why is no one interested? Why is it so hard to share my faith? Join us at this year’s Life@Work annual conference as we explore an approach to your witness that is realistic, holistic and exciting. More information and registration at [lifeatwork.org.au/conference](lifeatwork.org.au/conference)
+
+## National Training Event 2015 – December 5-9
+_Extra-ordinary mission - Engaging with the Supernatural_
+Our battle isn’t against flesh and blood but against spiritual power and forces. But in our day it’s easy to miss this. What does it mean to be in this battle? How do we get involved? How do we make a real difference? This is what we’ll be tackling at NTE15. Transport and accommodation is organised by your local Christian Union. More information and registration at [www.nte.org.au](www.nte.org.au)
 
 ## How The Gospel Impacts Everything
 This Spring, we’ll be continuing our series on 1 Corinthians.
@@ -19,8 +23,8 @@ This Spring, we’ll be continuing our series on 1 Corinthians.
  * [1 Corinthians 7, How the Gospel Impacts Marriage][1Cor7]
  * [1 Corinthians 8-9, How the Gospel Impacts Freedom][1Cor8-9]
  * [1 Corinthians 10-11, How the Gospel Impacts Food and Drink][1Cor10-11]
- * Oct 11 - 1 Corinthians 12, How the Gospel Impacts Your Gifts
- * Oct 18 - 1 Corinthians 13, How the Gospel Impacts Love
+ * [1 Corinthians 12, How the Gospel Impacts Your Gifts][1Cor12]
+ * [1 Corinthians 13, How the Gospel Impacts Love][1Cor13]
  * Oct 25 - 1 Corinthians 14, How the Gospel Impacts Church
  * Nov 1 - 1 Corinthians 15-16, How the Gospel Impacts Life and Death
 
@@ -38,6 +42,8 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 [1Cor7]:   /2015/09/20/1_corinthians_7-how_the_gospel_impacts_marriage-john_hudson.html
 [1Cor8-9]: /2015/09/27/1_corinthians_8-9-how_the_gospel_impacts_freedom-john_hudson.html
 [1Cor10-11]: /2015/10/04/1_corinthians_10-11-how_the_gospel_impacts_food_and_drink-john_hudson.html
+[1Cor12]: /2015/10/11/1_corinthians_12-how_the_gospel_impacts_your_gifts-john_hudson.html
+[1Cor13]: /2015/10/18/1_corinthians_13-how_the_gospel_impacts_love-john_hudson.html
 
 [Psalm12]: /2015/06/07/psalm_12-experiencing_gods_truth_in_a_world_of_confusion-john_hudson.html
 [Psalm13]: /2015/06/14/psalm_13-experiencing_god_in_pain_and_suffering-john_hudson.html
