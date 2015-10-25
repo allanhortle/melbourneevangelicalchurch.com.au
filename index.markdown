@@ -25,7 +25,7 @@ This Spring, we’ll be continuing our series on 1 Corinthians.
  * [1 Corinthians 10-11, How the Gospel Impacts Food and Drink][1Cor10-11]
  * [1 Corinthians 12, How the Gospel Impacts Your Gifts][1Cor12]
  * [1 Corinthians 13, How the Gospel Impacts Love][1Cor13]
- * Oct 25 - 1 Corinthians 14, How the Gospel Impacts Church
+ * [1 Corinthians 14, How the Gospel Impacts Church][1Cor14]
  * Nov 1 - 1 Corinthians 15-16, How the Gospel Impacts Life and Death
 
 
@@ -44,6 +44,7 @@ Rob Martin (Director of City Bible Forum) and John are starting an apologetics t
 [1Cor10-11]: /2015/10/04/1_corinthians_10-11-how_the_gospel_impacts_food_and_drink-john_hudson.html
 [1Cor12]: /2015/10/11/1_corinthians_12-how_the_gospel_impacts_your_gifts-john_hudson.html
 [1Cor13]: /2015/10/18/1_corinthians_13-how_the_gospel_impacts_love-john_hudson.html
+[1Cor14]: /2015/10/25/1_corinthians_14-how_the_gospel_impacts_church-john_hudson.html
 
 [Psalm12]: /2015/06/07/psalm_12-experiencing_gods_truth_in_a_world_of_confusion-john_hudson.html
 [Psalm13]: /2015/06/14/psalm_13-experiencing_god_in_pain_and_suffering-john_hudson.html
