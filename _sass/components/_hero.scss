@@ -1,6 +1,12 @@
 .hero{
     text-align: center;
-    padding:128px 0;
+    // padding:128px 0;
+    padding: 3rem 0;
     background: url(../img/header_bg.jpg) no-repeat center center;
     background-size: cover;
+
+    img {
+        display: block;
+        margin: auto;
+    }
 }

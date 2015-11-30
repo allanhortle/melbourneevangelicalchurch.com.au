@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<p>Sadly Melbourne Evangelical Church has had to close its doors. A lack of attendance and funding meant we could no longer support a full time ministry. While we are no longer meeting together in the Multi Cultural Hub, we will still be meeting each week and sharing the Good news of Christ with Melbourne as we merge with <a class="link" href="http://crossculture.net.au/">Cross Cultures.</a></p>
+
+<h2>Bible Talks</h2>
+<div id="home">
+    <ul class="posts">
+    {% for post in site.posts %}
+            {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+            {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+
+
+            {% if post.layout == 'post' %}
+            <li>
+                <a class="post" href="{{ post.url }}">
+                    <span class="right post_meta">
+                        <time class="post_date">{{ post.date | date_to_string }}</time>
+
+                    </span>
+                    <span class="post_title">{{ post.title }}</span>
+                    <small class="post_meta">{{post.passage}}</small>
+                </a>
+            </li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+</div>
+
+<h2>Articles</h2>
+<div id="home">
+    <ul class="posts">
+        {% for post in site.posts %}
+            {% if post.layout == 'article' %}
+                <li>
+                    <a class="post" href="{{ post.url }}">
+                    <span class="right t-right post_meta">
+                        <span class="post_author">{{post.author}},</span>
+                        <time class="post_date">{{ post.date | date_to_string }}</time>
+                    </span>
+                    <div class="post_title">{{ post.title }}</div>
+                </a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
